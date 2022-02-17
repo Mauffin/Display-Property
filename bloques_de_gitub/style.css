@@ -1,0 +1,35 @@
+.conteiner{
+    background-color: rgb(145, 171, 194);
+    padding: 30px;
+    margin: 30px;
+}
+.b1{
+    background-color: rgb(105, 207, 221);
+    padding: 30px;
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;   
+}
+
+.b2{
+    background-color: rgb(227, 215, 233);
+    padding: 30px;
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;   
+}
+
+.b3{
+    background-color: burlywood;
+    padding: 30px;
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;   
+}
+
+img{
+    height: 200px;
+}
